@@ -1,0 +1,3 @@
+# Clasificador: PROYECTO FINAL DANIEL CARRERA, el archivo llamado Filtros.ipynb contiene las librerias cv2 y matplotlib a traves de las cuales se aplican disintos tipos filtros a las imagenes a fin de obtener un mejor detalle en cada pixelaje que las compone.
+# Clasificador: PROYECTO FINAL DANIEL CARRERA, el arhivo Clasificador.ipynb se usan las librerias cv2, matplotlib y glob a traves de las cuales se realiza una lectura de todas las imagenes pertenecientes al directorio TRAIN y a la vez las mismas son cambiadas de tamaño y mostradas en una matriz.
+# Clasificador: PROYECTO FINAL DANIEL CARRERA, el archivo Imagenes.ipynb a su vez realiza la lecutar de las imagenes pertenecientes al directorio TEST empleando las librerias cv2, matplotlib y glob 
